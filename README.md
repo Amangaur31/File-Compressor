@@ -23,7 +23,7 @@ A `Makefile` is provided for easy compilation.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/Amangaur31/File-Compressor/tree/main>
     cd <repository-directory>
     ```
 
